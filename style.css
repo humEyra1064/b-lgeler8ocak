@@ -38,6 +38,17 @@ body{
 .bolgeImg{
     width: 150px;
     margin: 20px;
+    
+}
+.bolgeImgmarmara{
+    width: 130px;
+    margin: 20px;
+    margin-top: 8px;
+}
+.bolgeImgkaradeniz{
+    width: 150px;
+    margin: 20px;
+    margin-top: 65px;
 }
 button{
     padding: 13px;
